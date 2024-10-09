@@ -1,4 +1,4 @@
-<h3 align="center">Hi! 👋  I'm Teen </h3>
+<h1 align="center">Hi! 👋  I'm Teen </h1>
 <h3 align="center"> ==== ABOUT ME ====</h3>
 <h4 align="center"> AI Engineer Student at PSU </h4>
 <p align="center"> I'm interested about Web Developer, Data Sciece, Machine Larning, and Deep Learning. </p>
