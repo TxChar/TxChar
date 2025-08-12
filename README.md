@@ -3,9 +3,6 @@
 <h4 align="center"> AI Engineer Student at PSU </h4>
 <p align="center"> I'm interested about Web Developer, Data Sciece, Machine Larning, and Deep Learning. </p>
 
-## Github Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
-[![trophy](https://github-profile-trophy.vercel.app/?username=TxChar)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## Tech Stacks  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
 #### Languanges
