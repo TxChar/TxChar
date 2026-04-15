@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋  I'm Teen </h1>
+<h1 align="center">Hi! 👋  I'm Charnom (MilkTea) </h1>
 <h3 align="center"> ==== ABOUT ME ====</h3>
 <h4 align="center"> AI Engineer & FullStack Dev </h4>
 
