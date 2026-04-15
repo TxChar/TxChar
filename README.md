@@ -1,7 +1,6 @@
 <h1 align="center">Hi! 👋  I'm Teen </h1>
 <h3 align="center"> ==== ABOUT ME ====</h3>
-<h4 align="center"> AI Engineer Student at PSU </h4>
-<p align="center"> I'm interested about Web Developer, Data Sciece, Machine Larning, and Deep Learning. </p>
+<h4 align="center"> AI Engineer & FullStack Dev </h4>
 
 
 ## Tech Stacks  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
